@@ -12,7 +12,7 @@ Builder, Prototype,
    Proxy, Flyweight,
  and Bridge Design Patterns. 
 
- Behavioural Design Pattern:
+ Behavioral Design Pattern:
  Iterator Design Pattern
 Observer Design Pattern
 Chain of Responsibility Design Pattern
